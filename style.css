@@ -1,0 +1,33 @@
+.code{
+    background-color: white; 
+    width:320px;
+    height:497px;
+    margin:auto;
+    border-radius: 20px;
+    margin-top:115px;
+    
+}
+
+.improve{
+    padding:16px;font-family: 'Outfit';
+      font-style: normal;
+      font-weight: 700;
+      font-size: 22px;
+      line-height: 28px;
+      text-align: center;
+      margin-top:-15px;
+}
+
+.scan{
+    padding:32px; font-family: 'Outfit';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 15px;
+      line-height: 19px;
+      text-align: center;
+      letter-spacing: 0.1875px;
+      color:#7D889E;
+      width:256px;
+      height:57px;
+      margin-top:-40px;
+}
